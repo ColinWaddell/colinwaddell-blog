@@ -1,12 +1,12 @@
 ---
-title:  "Fetch Yahoo weather data using Oauth1 authentication in Python 3"
+title:  "Fetch Yahoo weather data using OAuth1 authentication in Python 3"
 categories: example
 mathjax: true
 ---
 
 Recently Yahoo updated how you can access their weather API. Instead of the
 previous free-for-all you now need to have a whitelisted app and authenticate
-with Oauth1 when requesting data.
+with OAuth1 when requesting data.
 
 As per the warning in the [documentation](https://developer.yahoo.com/weather/):
 

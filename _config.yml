@@ -1,6 +1,6 @@
-title: ""
-author: ""
-description: ""
+title: "Colin's Blog"
+author: "Colin Waddell"
+description: "The dogs don't appreciate my hardwork so perhaps the internet will"
 
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/

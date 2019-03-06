@@ -1,4 +1,4 @@
-title: "Colin's Blog"
+title: "Colin Waddell's Blog"
 author: "Colin Waddell"
 description: "The dogs don't appreciate my hardwork so perhaps the internet will"
 
@@ -14,17 +14,19 @@ post_footer: true            # show previous and next links at the end of each p
 date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 
 # Theme settings
-style: default               # choose between "default", "contrast" and "minimal"
+style: contrast               # choose between "default", "contrast" and "minimal"
 dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
   - index.html
   - archive.md
-  - about.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:"
+  home: "https://colinwaddell.com"
   github: "https://github.com"
+  linkedin: "https://www.linkedin.com/profile/view?id=207368864"
+  instagram: "https://instagram.com/mrwarmtoast"
+  twitter: "https://twitter.com/ColinWaddellCom"
   rss: "/feed.xml"
 
 comments:                    # embed disqus or isso comments

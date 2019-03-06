@@ -9,7 +9,7 @@ layout: default
     <h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time>
   </header>
-  {{ page.excerpt }}
+  {{ page.excerpt | truncatewords: 100 }}
   {% unless page.excerpt == page.content %}
   <footer><a class="ghost" href="{{ page.url | relative_url }}">read more »</a></footer>
   {% endunless %}

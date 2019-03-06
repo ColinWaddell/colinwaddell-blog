@@ -57,8 +57,7 @@ def get_yahoo_weather(
     app_id,
     consumer_key,
     consumer_secret,
-    url='https://weather-ydn-yql.media.yahoo.com/forecastrss',
-    format='json'
+    url='https://weather-ydn-yql.media.yahoo.com/forecastrss'
 ):
     # Basic info
     method = 'GET'
@@ -67,8 +66,8 @@ def get_yahoo_weather(
     consumer_secret = consumer_secret
     concat = '&'
     query = {
-        'location': location
-        'format': format
+        'location': location,
+        'format': 'json'
     }
     oauth = {
         'oauth_consumer_key': consumer_key,

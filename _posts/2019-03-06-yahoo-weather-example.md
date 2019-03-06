@@ -61,7 +61,6 @@ def get_yahoo_weather(
 ):
     # Basic info
     method = 'GET'
-    app_id = app_id
     concat = '&'
     query = {
         'location': location,

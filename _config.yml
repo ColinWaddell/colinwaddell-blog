@@ -1,6 +1,7 @@
 title: "Colin Waddell's Blog"
 author: "Colin Waddell"
 description: "The dog's don't appreciate my handiwork - perhaps the internet will"
+google_id: 'UA-117975660-3'
 
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/

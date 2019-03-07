@@ -42,6 +42,12 @@
                 gtag('config', '{{ site.google_id }}');
             </script>
         {% endif %}
+
+        {% if site.opengraph %}
+            <meta property="og:title" content="{{ site.title }}"/> 
+            <meta property="og:url" content="{{ site.opengraph.url }}"/> 
+            <meta property="og:image" content="{{ site.opengraph.image }}"/>
+        {% endif %}
     </head>
     <body class="{% if site.dark_theme %}dark{% else %}light{% endif %}">
 

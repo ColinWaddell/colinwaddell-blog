@@ -43,9 +43,11 @@
             </script>
         {% endif %}
 
-        {% if site.opengraph %}
-            <meta property="og:title" content="{{ site.title }}"/> 
+        <meta property="og:title" content="{{ site.title }}"/> 
+        {% if site.opengraph.url %}
             <meta property="og:url" content="{{ site.opengraph.url }}"/> 
+        {% endif %}
+        {% if site.opengraph.image %}
             <meta property="og:image" content="{{ site.opengraph.image }}"/>
         {% endif %}
     </head>

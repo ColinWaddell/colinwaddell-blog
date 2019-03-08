@@ -1,7 +1,6 @@
 ---
 title:  "Fetch Yahoo weather data using OAuth1 authentication in Python 3"
-categories: example
-mathjax: true
+categories: python
 ---
 
 Recently Yahoo updated how you can access their weather API. Instead of the

@@ -16,7 +16,7 @@ layout: default
         </header>
 
         <excerpt>
-            {{ page.excerpt | truncatewords: 100 }}
+            {{ page.excerpt | strip_html | truncatewords: 100 }}
         </excerpt>
 
         <footer>

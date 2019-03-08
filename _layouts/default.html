@@ -47,8 +47,8 @@
         {% if site.opengraph.url %}
             <meta property="og:url" content="{{ site.opengraph.url }}"/> 
         {% endif %}
-        {% if site.opengraph.image %}
-            <meta property="og:image" content="{{ site.opengraph.image }}"/>
+        {% if site.opengraph.image or page.feature_image %}
+            <meta property="og:image" content="{{ site.opengraph.url }}{% if page.feature_image %}{{ page.feature_image }}{% else %}{{ site.opengraph.image }}{% endif %}"/>
         {% endif %}
     </head>
     <body class="{% if site.dark_theme %}dark{% else %}light{% endif %}">

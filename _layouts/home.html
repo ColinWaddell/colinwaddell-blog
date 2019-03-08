@@ -5,7 +5,7 @@ layout: default
   {% for page in paginator.posts %}
     <article>
 
-      <header>
+        <header>
             {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
             <h1>
                 <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
@@ -15,7 +15,9 @@ layout: default
             </time>
         </header>
 
-        {{ page.excerpt | truncatewords: 100 }}
+        <excerpt>
+            {{ page.excerpt | truncatewords: 100 }}
+        </excerpt>
 
         <footer>
             <a class="ghost" href="{{ page.url | relative_url }}">

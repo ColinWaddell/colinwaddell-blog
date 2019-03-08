@@ -1,4 +1,4 @@
----
+------
 title:  "My mantras at work"
 categories: general
 ------

@@ -1,7 +1,7 @@
-------
+---
 title:  "My mantras at work"
 categories: general
-------
+---
 
 I'm constantly telling new (and old) developers the same things. As with any good ideas relating to software developement these are mostly copy+pasted from other places. It's nice to see them in the same place though.
 

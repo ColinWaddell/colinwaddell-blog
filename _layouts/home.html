@@ -6,20 +6,18 @@ layout: default
     <article>
 
       <header>
-        {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
-        <h1>
-          <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-        </h1>
-        <time datetime="{{ page.date | date_to_xmlschema }}">
-          {{ page.date | date: date_format }}
-        </time>
-      </header>
+            {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
+            <h1>
+                <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+            </h1>
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+                {{ page.date | date: date_format }}
+            </time>
+        </header>
 
-      {{ page.excerpt | truncatewords: 100 }}
+        {{ page.excerpt | truncatewords: 100 }}
 
-      {% unless page.excerpt == page.content %}
         <footer><a class="ghost" href="{{ page.url | relative_url }}">read more »</a></footer>
-      {% endunless %}
     </article>
   {% endfor %}
 

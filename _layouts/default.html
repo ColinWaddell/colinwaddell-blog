@@ -43,7 +43,7 @@
             </script>
         {% endif %}
 
-        <meta property="og:title" content="{{ site.title }}"/> 
+        <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}"/> 
         {% if site.opengraph.url %}
             <meta property="og:url" content="{{ site.opengraph.url }}"/> 
         {% endif %}

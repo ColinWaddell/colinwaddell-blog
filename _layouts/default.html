@@ -56,7 +56,11 @@
         <header>
             <div class="header-content">
                 {% unless site.hide_title %}
-                    <h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
+                    <h1>
+                        <a href="{{ '/' | relative_url }}">
+                            {{ site.title | escape }}
+                        </a>
+                    </h1>
                     <h4>{{ site.description }}</h4>
                 {% endunless %}
                 {% if site.navigation %}<nav>{% for path in site.navigation %}{% assign node = site.pages | where: "name", path | first %}<a href="{{ node.url | relative_url }}">{{ node.title }}</a>{% endfor %}</nav>{% endif %}

@@ -60,7 +60,7 @@
                     <h4>{{ site.description }}</h4>
                 {% endunless %}
                 {% if site.navigation %}<nav>{% for path in site.navigation %}{% assign node = site.pages | where: "name", path | first %}<a href="{{ node.url | relative_url }}">{{ node.title }}</a>{% endfor %}</nav>{% endif %}
-                {% if site.icons %}<nav>{% for link in site.icons %}<a class="icon" href="{{ link[1] }}"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}</nav>{% endif %}
+                {% if site.icons %}<nav style="text-align: right">{% for link in site.icons %}<a class="icon" href="{{ link[1] }}"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}</nav>{% endif %}
             </div>
         </header>
 

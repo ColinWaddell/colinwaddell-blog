@@ -1,6 +1,6 @@
 ---
 title:  "Keychron function keys configuration"
-categories: python
+categories: hardware
 feature_image: "/media/keychron-k2.jpg"
 ---
 

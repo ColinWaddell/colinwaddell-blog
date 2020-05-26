@@ -24,5 +24,3 @@ I've yet to find a single list of all the key combinations that can be used to c
 | `Fn + 2`             | Tap            | Use as bluetooth device #2                                                      |
 | `Fn + 3`             | Tap            | Use as bluetooth device #3                                                      |
 | `Fn + X + L`         | 4 seconds      | Toggle between `F1 → F12` being primarily function keys or multimedia keys |
-
-smb://172.16.193.11/network shares/Main Share/Staff Folders/AlexD/

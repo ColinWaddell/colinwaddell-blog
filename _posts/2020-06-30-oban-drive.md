@@ -1,3 +1,9 @@
+---
+title:  "For Sale - 2 Bedroom Ground Floor Flat - Oban Drive"
+categories: personal
+feature_image: "/media/oban-drive/3d-layout.png"
+---
+
 69 Oban Drive
 =============
 

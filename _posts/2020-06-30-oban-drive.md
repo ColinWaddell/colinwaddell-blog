@@ -17,7 +17,7 @@ Public transport links are close by via bus and underground. Main road links nam
 
 Layout
 ------
-[![Floor plan](/media/oban-drive/floor-plan.svg)](/media/oban-drive/floor-plan.svg)
+[![Floor plan](/media/oban-drive/floor-plan.png)](/media/oban-drive/floor-plan.png)
 
 
 [![3D layout](/media/oban-drive/3d-layout.png)](/media/oban-drive/3d-layout.pngg)

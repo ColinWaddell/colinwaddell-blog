@@ -7,9 +7,9 @@ feature_image: "/media/oban-drive/3d-layout.png"
 69 Oban Drive
 =============
 
-A well appointed two bedroom elevated ground floor flat within a sandstone tenement building occupying a sought after location.
+Recently refurbished two bedroom elevated ground floor flat within a sandstone tenement building occupying a sought after location.
 
-The accommodation from the secure residence hall enters a welcoming reception hallway with storage off, bay window lounge with feature fireplace and storage off, galley kitchen complete with a range of base and wall units and integrated appliances, two bedrooms and bathroom complete with a three piece suite with over bath shower.
+The accommodation from the secure residence hall enters a welcoming reception hallway with storage off, bay window lounge with feature fireplace and storage off, galley kitchen complete with a range of base and wall units and integrated appliances, two bedrooms and bathroom complete with a three piece suite with over bath shower. This property has recently been refitted with a new kitchen, bathroom and property wide wall-to-wall oak wood flooring.
 
 In addition the property has gas central heating. Local amenities can be found on Queen Margaret Drive and Glasgow's Botanic Gardens are situated very close by. Byres Road is only a short distance away and provides further social and recreational opportunities. The famous University of Glasgow is situated within the West End together with Western Infirmary.
 

@@ -19,5 +19,27 @@ Layout
 ------
 [![Floor plan](/media/oban-drive/floor-plan.png)](/media/oban-drive/floor-plan.png)
 
-
 [![3D layout](/media/oban-drive/3d-layout.png)](/media/oban-drive/3d-layout.png)
+
+Photos
+------
+
+[![Living room](/media/oban-drive/living1.jpg)](/media/oban-drive/living1.jpg)
+
+[![Living room](/media/oban-drive/living2.jpg)](/media/oban-drive/living2.jpg)
+
+[![Hall](/media/oban-drive/hall.jpg)](/media/oban-drive/hall.jpg)
+
+[![Bedroom 1](/media/oban-drive/bedroom1.jpg)](/media/oban-drive/bedroom1.jpg)
+
+[![Bedroom 1](/media/oban-drive/bedroom2.jpg)](/media/oban-drive/bedroom2.jpg)
+
+[![Bedroom 2](/media/oban-drive/spare1.jpg)](/media/oban-drive/spare1.jpg)
+
+[![Bedroom 2](/media/oban-drive/spare2.jpg)](/media/oban-drive/spare2.jpg)
+
+[![Kitchen](/media/oban-drive/kitchen1.jpg)](/media/oban-drive/kitchen1.jpg)
+
+[![Kitchen](/media/oban-drive/kitchen2.jpg)](/media/oban-drive/kitchen2.jpg)
+
+[![Bathroom](/media/oban-drive/bathroom.jpg)](/media/oban-drive/bathroom.jpg)

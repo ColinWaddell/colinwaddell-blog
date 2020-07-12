@@ -45,6 +45,9 @@ Photos
 
 [![Bathroom](/media/oban-drive/bathroom.jpg)](/media/oban-drive/bathroom.jpg)
 
+[![Stairwell](/media/oban-drive/stairwell1.jpg)](/media/oban-drive/stairwell1.jpg)
+
+[![Stairwell](/media/oban-drive/stairwell2.jpg)](/media/oban-drive/stairwell2.jpg)
 
 Expected asking price
 ---------------------

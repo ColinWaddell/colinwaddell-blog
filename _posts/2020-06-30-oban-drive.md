@@ -4,6 +4,7 @@ categories: personal
 feature_image: "/media/oban-drive/living1.jpg"
 ---
 
+
 69 Oban Drive
 =============
 Recently refurbished two bedroom elevated ground floor flat within a sandstone tenement building occupying a sought after location.
@@ -16,15 +17,16 @@ In addition the property has gas central heating. Local amenities can be found o
 
 Public transport links are close by via bus and underground. Main road links namely the Clyde Tunnel, Clydeside Expressway and thereafter the M8 motorway network are all easily accessible by car. The City Centre of Glasgow is situated within approximately 2.5 miles. EER Band D.
 
+
 Layout
 ------
 [![Floor plan](/media/oban-drive/floor-plan.png)](/media/oban-drive/floor-plan.png)
 
 [![3D layout](/media/oban-drive/3d-layout.png)](/media/oban-drive/3d-layout.png)
 
+
 Photos
 ------
-
 [![Living room](/media/oban-drive/living1.jpg)](/media/oban-drive/living1.jpg)
 
 [![Living room](/media/oban-drive/living2.jpg)](/media/oban-drive/living2.jpg)
@@ -48,6 +50,7 @@ Photos
 [![Stairwell](/media/oban-drive/stairwell1.jpg)](/media/oban-drive/stairwell1.jpg)
 
 [![Stairwell](/media/oban-drive/stairwell2.jpg)](/media/oban-drive/stairwell2.jpg)
+
 
 Expected asking price
 ---------------------
